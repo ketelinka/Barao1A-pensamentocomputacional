@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color: rgb(134, 1, 1);
+}
+.capa{
+    width: 80%;
+}
+   .beneficios{
+    width: 100%;
+    text-align: line-through;
+
+    background-color: azure;
+   }
+
+   ul{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 100px;
+   }
+ 
+   li{
+    padding: 25px
+    font-size 20px;
+}
+
+
+
+
+
